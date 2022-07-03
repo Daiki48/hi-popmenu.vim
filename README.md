@@ -19,7 +19,7 @@ However, the reason I created this plugin is to study my plugin development.
 Fill in the Plug-in Manager.
 - For dein.vim
 
-'''
+```
 [[plugins]]
 repo = 'Daiki48/hi-popmenu.vim'
-'''
+```
